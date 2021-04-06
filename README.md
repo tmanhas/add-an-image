@@ -1,5 +1,17 @@
 # add-an-image
 
+## another header
+
+> block quote
+
+_italics_
+
+**bold**
+
+...
+trying to figure out code
+...
+
 You can write something just like text here
 
 we can markup but this is called markdown, i know its confusing
